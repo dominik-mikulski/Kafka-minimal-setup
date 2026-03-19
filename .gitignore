@@ -1,0 +1,5 @@
+#ignore clone of cp-all-in-one repository
+cp-all-in-one/
+
+#ignore local virtual environment
+kafka-python-app/.venv/
